@@ -102,7 +102,7 @@
                                 <div class="halim-post-title-box">
                                     <div class="halim-post-title ">
                                         <p class="entry-title">Đại Thánh Vô Song</p>
-                                        <p class="original_title">Monkey King: The One And Only</p>
+                                        {{-- <p class="original_title">Monkey King: The One And Only</p> --}}
                                     </div>
                                 </div>
                             </a>
